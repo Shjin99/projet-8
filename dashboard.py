@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 
 # --- Config ---
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://dashboard-credit-api.onrender.com"
 st.set_page_config(page_title="Dashboard Crédit Client", layout="wide")
 st.title("📊 Dashboard de Prédiction de Crédit Client")
 
